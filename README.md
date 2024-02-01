@@ -38,3 +38,7 @@ Comment from Zhongqian Chen:
 
 Communication between team members and have a proper way of managing your team is definitely an important factor that determines how efficient and successful a software dev project goes. An indie-game in dev right now that I'm interested in called Ratatan updates their progress as articles each month, and I'm surprised to find out that they also update on how they manage their team and what new methods of communication they found out worked well for their team in every update article too. This shows how important this part is to the whole software dev project, and thus needs to be taken care of with caution.
 
+
+
+#### comment from damla onder (do2083):
+I thought this article was really interesting because it delves into the topics of privacy (or more so the lack thereof). especially with what we talked about today in class, it's so crazy that these companies have the audacity to take our data like this. It's obvious they don't care about the ethical aspect of it all, it's all for the money. It's a sad side effect of technology. 

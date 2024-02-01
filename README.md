@@ -40,5 +40,3 @@ Communication between team members and have a proper way of managing your team i
 
 
 
-#### comment from damla onder (do2083):
-I thought this article was really interesting because it delves into the topics of privacy (or more so the lack thereof). especially with what we talked about today in class, it's so crazy that these companies have the audacity to take our data like this. It's obvious they don't care about the ethical aspect of it all, it's all for the money. It's a sad side effect of technology. 
